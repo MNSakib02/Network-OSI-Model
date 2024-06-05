@@ -3,6 +3,8 @@
 The 7 layers of the OSI model can be defined as follows, from top to bottom:
 1. The application layer
 The Application Layer: content requested and returned in required format
+![osi_model_application_layer_7](https://github.com/MNSakib02/Network-OSI-Model/assets/58394125/f5b5b418-6e52-4038-b8f6-ac846d9b3d90)
+
 
 This is the only layer that directly interacts with data from the user. Software applications like web browsers and email clients rely on the application layer to initiate communications. But it should be made clear that client software applications are not part of the application layer; rather the application layer is responsible for the protocols and data manipulation that the software relies on to present meaningful data to the user.
 
